@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hoatuno/hoatuno.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### **Email**: hhtcyb@gmail.com | **Phone**: 0943129871
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **INTRODUCTION**
+#### Hello, i'm Hoang Huu Tung
+- Date of birth: 10 February 2001
+- Languages:
+  - Vietnamese (Native speaker)
+  - English (Elementary)
 
-### Markdown
+## **EDUCATIONAL BACKGROUND**
+- Highschool: Nguyen Tat Thanh Highschool for the Gifted
+2016 – 2019
+- Studying Computer Science at University of Engineering and Technology, VNU.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **SKILLS:**
+- UI/UX design, Java, C++, HTML,CSS and ReactJS
+- Basic graphic design with some softwares Adobe: PS, AI, PR
 
-```markdown
-Syntax highlighted code block
+## **ENGINEERING EXPERIENCE:**
+- One year internship in [ORLAB](http://orlab.com.vn)
 
-# Header 1
-## Header 2
-### Header 3
+## **MY PROJECT:**
+### [Sudoku - Web Game](https://gitlab.com/hoatuno/sudorku)
+A Sudoku game with some special editions and simplific UI. I am in charge of design user interface in 3 weeks. And the core algorithm is researched by my partner.
 
-- Bulleted
-- List
+**SDK, Libraries & Tools**: JavaScript, ReactJS, Redux, CSS, Visual Studio
+### [Bombertu - A Classic Bomberman Game](https://github.com/cd-project/bomvertu)
+**(co-developed with [cd-project](https://github.com/cd-project))**
 
-1. Numbered
-2. List
+A strategic, maze-based bomb putting
 
-**Bold** and _Italic_ and `Code` text
+**SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
+### [TCDictionary](https://github.com/hoatuno/TCDictionary)
+**(co-developed with [cd-project](https://github.com/cd-project))**
 
-[Link](url) and ![Image](src)
-```
+An advanced English - Vietnamese dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate, text to speech., etc.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven, etc.
 
-### Jekyll Themes
+### [Runningpet - Basic game](https://github.com/hoatuno/runningpet)
+A basic game whickh is similar to the dinosaur game of Chrome controled with keyboard.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hoatuno/hoatuno.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**SDK, Libraries & Tools:** C++, SDL2, Visual Studio
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
