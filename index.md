@@ -32,7 +32,7 @@ A Sudoku game with some special editions and simplific UI. I am in charge of des
 A strategic, maze-based bomb putting
 
 **SDK, **Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
-### [TCDictionary](https://github.com/hoatuno/TCDictionary)**
+### **[TCDictionary](https://github.com/hoatuno/TCDictionary)**
 **(co-developed with [cd-project](https://github.com/cd-project))**
 
 An advanced English - Vietnamese dictionary with features like: Auto detect sentences & translate from search box, database management, online Google Translate, text to speech., etc.
