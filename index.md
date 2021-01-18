@@ -31,7 +31,7 @@ A Sudoku game with some special editions and simplific UI. I am in charge of des
 
 A strategic, maze-based bomb putting
 
-**SDK, **Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
+**SDK, Libraries & Tools**: Java 8, JavaFX, SceneBuilder, SQLite, Maven
 ### **[TCDictionary](https://github.com/hoatuno/TCDictionary)**
 **(co-developed with [cd-project](https://github.com/cd-project))**
 
